@@ -18,10 +18,11 @@ This is a repository to showcase my skills through various projects. This reposi
    - [Customer Transactions](https://github.com/clarkhaz1988/SQL-Query/tree/main#Creating-an-Overview-to-Determine-an-Action-Plan-to-Increase-Revenue-and-Sales)
           
    - [Customer Data](https://github.com/clarkhaz1988/SQL-Query/tree/main#)
-
-  - Tableau -->[go to Tableau](https://public.tableau.com/app/profile/chaz.clark/vizzes)
+     
+- Tableau -->[go to Tableau](https://public.tableau.com/app/profile/chaz.clark/vizzes)
  
-  - [Education](https://github.com/clarkhaz1988/SQL-Query/tree/main#Education)
+- [Education](https://github.com/clarkhaz1988/SQL-Query/tree/main#Education)
+- [Power BI Finance Dashboard](https://app.powerbi.com/groups/me/reports/15663e21-acd2-4b5f-bdee-c9acee719dda/ReportSection?experience=power-bi)
 
 # Portfolio Projects
 
